@@ -1,0 +1,26 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FB7185"/>
+      <stop offset="0.55" stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#09090B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect width="1600" height="900" fill="#09090B" fill-opacity="0.36"/>
+  <rect x="80" y="110" width="1440" height="240" rx="36" fill="#101014" fill-opacity="0.88" stroke="#FFD1D9" stroke-opacity="0.2"/>
+  <rect x="80" y="400" width="940" height="400" rx="36" fill="#101014" fill-opacity="0.88" stroke="#FFD1D9" stroke-opacity="0.2"/>
+  <rect x="1060" y="400" width="460" height="400" rx="36" fill="#101014" fill-opacity="0.88" stroke="#FFD1D9" stroke-opacity="0.2"/>
+  <text x="120" y="150" fill="#FB7185" font-family="Arial, Helvetica, sans-serif" font-size="28" letter-spacing="4">AI TYPING PUNISHMENT CHAMBER</text>
+  <text x="120" y="245" fill="#FFF8F8" font-family="Arial, Helvetica, sans-serif" font-size="104" font-weight="700">Brainrot Buzzer</text>
+  <text x="125" y="305" fill="#FFE7D6" font-family="Arial, Helvetica, sans-serif" font-size="36">Type cursed meme phrases. Miss one letter. Get blasted.</text>
+  <text x="120" y="460" fill="#FB7185" font-family="Arial, Helvetica, sans-serif" font-size="28" letter-spacing="4">CURRENT PHRASE</text>
+  <text x="120" y="565" fill="#FFF8F8" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700">sigma hamster in the vents</text>
+  <rect x="120" y="630" width="840" height="86" rx="24" fill="#0A0A0B" stroke="#FB7185" stroke-opacity="0.28"/>
+  <text x="155" y="685" fill="#FFF8F8" font-family="Arial, Helvetica, sans-serif" font-size="34">type here...</text>
+  <text x="1100" y="460" fill="#FB7185" font-family="Arial, Helvetica, sans-serif" font-size="28" letter-spacing="4">STATS</text>
+  <text x="1100" y="565" fill="#FFF8F8" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700">87</text>
+  <text x="1100" y="610" fill="#FFE7D6" font-family="Arial, Helvetica, sans-serif" font-size="28">WPM</text>
+  <text x="1100" y="695" fill="#FFF8F8" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700">3</text>
+  <text x="1100" y="740" fill="#FFE7D6" font-family="Arial, Helvetica, sans-serif" font-size="28">mistakes</text>
+</svg>
